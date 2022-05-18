@@ -1,6 +1,6 @@
 # My Lessons
 
-As an instructor, I found creating quality lessons that were engaging, clear, and enlightening to be a worthy challenge and greatly satisfying.
+As an instructor, I found creating quality lessons that were inspring, clear, and effective to be a worthy challenge and greatly satisfying.
 
 <!-- Here you'll find a compilation of the lessons I've created. -->
 
