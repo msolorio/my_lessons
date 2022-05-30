@@ -11,7 +11,7 @@ Right click links to open in a new tab.
 <!-- ### JavaScript -->
 <img alt="Programming Fundamentals" src="https://img.shields.io/badge/-Programming_Fundamentals-05122A?style=flat&logo=gnometerminal" height="30"/>
 
-#### [Intro to Functions in JavaScript](https://github.com/msolorio/functions_lesson_plan)
+<!-- #### [Intro to Functions in JavaScript](https://github.com/msolorio/functions_lesson_plan) -->
 
 <!-- ## Python -->
 <!-- <img alt="Python" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" height="30"/> -->
